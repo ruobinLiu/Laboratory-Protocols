@@ -13,7 +13,7 @@ short-purpose: "This lesson will show you how to..."
 who: "Pulse Crop Researchers focused on variation data."
 
 # A comma-separated list of maintainers for this lesson.
-maintainers: "Lacey-Anne Sanderson, Ruobin Liu"
+maintainers: "Lacey-Anne Sanderson, Robert Stonehouse, Ruobin Liu"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
