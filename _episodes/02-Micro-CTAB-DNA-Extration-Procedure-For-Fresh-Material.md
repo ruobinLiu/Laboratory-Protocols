@@ -37,7 +37,7 @@ emergency procedures, and clean-up/disposal procedures.  If you have any questio
 16. Centrifuge the samples @ 13 000 rpm for 10 minutes.
 17. Pipette off the ethanol and let tubes air dry. Alternatively a speed-vac can be used.
 18. Resuspend DNA in 100 l of sterile H2O.
-19. Add 1 U+00B5 (181)l of 10 mg/mL RNAse A.  
+19. Add 1 &#181 l of 10 mg/mL RNAse A.  
 
 ## Notes:
 -	Samples can be left O/N after adding the ethanol in step 13 or 15.
