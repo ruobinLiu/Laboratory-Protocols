@@ -13,6 +13,8 @@ keypoints:
 
 ---
 
+### This protocol provides a quick means to extract PCR-only quality DNA from a large number of samples.
+
 ## SAFETY INFORMATION
 Before you start, look up the MSDS sheets for all the chemicals used in this protocol.  Ensure you follow any recommendations/rules regarding wearing personal protective equipment, emergency procedures, and clean-up/disposal procedures.  If you have any questions contact your supervisor or lab manager.
 
