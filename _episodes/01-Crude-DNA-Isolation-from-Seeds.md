@@ -3,12 +3,18 @@ title: "How to crude DNA Isolation from Seeds"
 teaching: 30
 exercises: 30
 questions:
-- "How to crude DNA Isolation from Seeds"
+- "How to crude DNA Isolation from Seeds?"
 
 objectives:
-- "NaOH Treatment of Plant (Bean/Lentil/Faba) Seeds (quick DNA Release method for use in PCR)"
+- "Extract PCR-only quality DNA from a large number of samples"
+ 
 
 keypoints:
+- "Avoid contaminating sample with seed coat tissue when handling beans and lentils."
+- "Avoid damaging the embryo when chipping the seed coat."
+- "Small amount of seed flour is good enough, more is not better."
+- "Try to be as consistent as possible with the amount of tissue collected."
+
 
 
 ---
