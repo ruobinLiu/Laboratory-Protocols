@@ -48,7 +48,15 @@ The following is the standard PCR program we use for KASP assays using **high-qu
 * If the add-on program was used, you can plot all 5 time-points independently and compare to identify which results are easiest to score accurately.
 * Once plotted you can determine which lines score for each respective allele.
 
+## Notes on KASP Assays:
+* We find that all KASP assays are unique.  Some work better than others.  Some require more cycles than others.  
+* We find that KASP assays are consistent across DNA extraction methods (ie if it works well with high-quality DNA, it will work with DNA from NaOH treatments)
 
+This is an example of a good KASP assay result:
+![Screenshot of main code listing](../fig/KASP-PCR-Protocol-2.png)
 
+This is an example of a KASP assay scoring heterozygous samples:
+![Screenshot of main code listing](../fig/KASP-PCR-Protocol-3.png)
 
-
+This is an example showing the plotting of 5 time-points from the same KASP run
+![Screenshot of main code listing](../fig/KASP-PCR-Protocol-4.png)
