@@ -39,14 +39,14 @@ The following is the standard PCR program we use for KASP assays using **high-qu
   - The Add-on provides POST-PCR fluorescence readings at 4 more time-points.   This allows one the flexibility to find the optimal time-point from which to take and plot the data. 
 
 ## Plotting the Data:
--	If the software you are using to view your plots is not user-friendly, or inadequate, use Excel.
--	Transfer the PRE-PCR and POST-PCR fluorescence readings to Excel.
--	Use the following calculation for both VIC and FAM fluorescence readings of all samples as well as the NTC:
+*	If the software you are using to view your plots is not user-friendly, or inadequate, use Excel.
+*	Transfer the PRE-PCR and POST-PCR fluorescence readings to Excel.
+*	Use the following calculation for both VIC and FAM fluorescence readings of all samples as well as the NTC:
   - ((POST –PRE)/PRE) x 100
   - The result will equal % Change in Fluorescence
--	Generate a Scatter Plot using “% Change in VIC Fluorescence” vs “% Change in FAM Fluorescence”
--	If the add-on program was used, you can plot all 5 time-points independently and compare to identify which results are easiest to score accurately.
--	Once plotted you can determine which lines score for each respective allele.
+*	Generate a Scatter Plot using “% Change in VIC Fluorescence” vs “% Change in FAM Fluorescence”
+*	If the add-on program was used, you can plot all 5 time-points independently and compare to identify which results are easiest to score accurately.
+*	Once plotted you can determine which lines score for each respective allele.
 
 
 
