@@ -50,7 +50,7 @@ emergency procedures, and clean-up/disposal procedures.  If you have any questio
 
 						                   /100mL	/500mL	/1L
 ddH2O			             | (mL)	|	86		|430	|	860
----------------------     ---------------------
+---------------------   ------ ------- ----- ----
 CTAB			             | (g)	|	2	    |	10	| 20		
 ---------------------     ---------------------
 Polyvinylpyrrolidone 	 | (g)	| 1		  |5	  | 10
