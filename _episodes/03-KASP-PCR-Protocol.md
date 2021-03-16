@@ -22,3 +22,4 @@ keypoints:
 
 The following is the standard PCR program we use for KASP assays using **high-quality DNA** (CTAB, Qiagen kits).   We have added a few cycles to the program recommended by LGCBiosciences in the KASP Manual.
 
+![Screenshot of main code listing](../fig/KASP-PCR-Protocol-1.png)
