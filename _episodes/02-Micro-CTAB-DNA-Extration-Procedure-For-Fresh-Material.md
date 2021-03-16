@@ -48,4 +48,4 @@ emergency procedures, and clean-up/disposal procedures.  If you have any questio
 
 ![Screenshot of main code listing](../fig/Micro-CTAB-DNA-Extration-Procedure-For-Fresh-Material-1.png)
 
-![Screenshot of main code listing](../fig/Micro-CTAB-DNA-Extration-Procedure-For-Fresh-Material-2.png)
+
