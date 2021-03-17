@@ -9,7 +9,7 @@ objectives:
 - ""
 
 keypoints:
-
+- "Read through Safety Information before you start the experiment."
 
 ---
 ## Notes before starting PCR:
