@@ -6,10 +6,11 @@ questions:
 - "How to crude DNA Isolation from Seeds?"
 
 objectives:
-- "Extract PCR-only quality DNA from a large number of samples"
+- "Extract PCR-only quality DNA from a large number of samples."
  
 
 keypoints:
+- "Read through Safety Information before you start the experiment."
 - "Avoid contaminating sample with seed coat tissue when handling beans and lentils."
 - "Avoid damaging the embryo when chipping the seed coat."
 - "Small amount of seed flour is good enough, more is not better."
