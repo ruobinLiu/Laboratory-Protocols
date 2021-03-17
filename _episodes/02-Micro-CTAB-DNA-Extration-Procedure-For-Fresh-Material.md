@@ -3,12 +3,14 @@ title: "Micro-CTAB DNA Extraction Procedure For Fresh Material"
 teaching: 30
 exercises: 30
 questions:
-- ""
+- "How to extract DNA from fresh pulse tissues?"
 
 objectives:
-- ""
+- "Use CTAB Extraction Buffer to help extract DNA from fresh pulse crops."
 
 keypoints:
+- "Read through Safety Information before you start the experiment."
+- "This protocol can be used to extract DNA from all pulse crops."
 
 
 ---
