@@ -1,5 +1,5 @@
 ---
-title: "Micro-CTAB DNA Extraction Procedure For Fresh Material"
+title: "Micro-CTAB DNA Extraction Procedure for Fresh Material"
 teaching: 30
 exercises: 30
 questions:
