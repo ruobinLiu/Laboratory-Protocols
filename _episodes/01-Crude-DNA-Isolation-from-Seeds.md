@@ -14,7 +14,7 @@ keypoints:
 - "Avoid contaminating sample with seed coat tissue when handling beans and lentils."
 - "Avoid damaging the embryo when chipping the seed coat."
 - "Small amount of seed flour is good enough; more is not better."
-- "Try to be as consistent as possible with the amount of tissue  collected."
+- "Try to be as consistent as possible with the amount of tissue collected."
 
 
 
@@ -35,7 +35,10 @@ Before you start, look up the MSDS sheets for all the chemicals used in this pro
 -	0.25M NaOH
 
 ## Protocol:
-1.	Using Tweezers (or a Razor Blade or Scalpel – whichever you find easiest), chip off a small area of seed coat to expose the cotyledons.  See photo below
+Photo of a bean with the seed coat scraped away on the front side
+![Screenshot of main code listing](../fig/Crude-DNA-Isolation-from-Seeds.png)
+
+1.	Using Tweezers (or a Razor Blade or Scalpel – whichever you find easiest), chip off a small area of seed coat to expose the cotyledons.
 -	For beans and lentils, seed coat tissue is derived from maternal parent and does not represent genotype of the embryo.  Therefore avoid contaminating sample with seed coat tissue.
 -	Avoid damaging the embryo when chipping the seed coat.
 2.	Place a 96-well PCR micro-plate on ice.  Add 2 µl of sterile water to each well.
@@ -53,6 +56,6 @@ Before you start, look up the MSDS sheets for all the chemicals used in this pro
 
 ## Important Notes:
 -	For best results, try to be as consistent as possible with the amount of tissue collected.   As with any PCR, KASP-based PCR works best when starting samples have same amounts of DNA.  By being consistent, you should not have to quantify the DNA.
-![Screenshot of main code listing](../fig/Crude-DNA-Isolation-from-Seeds.png)
+
 
 
