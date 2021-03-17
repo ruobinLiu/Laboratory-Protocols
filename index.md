@@ -23,7 +23,7 @@ why: "This lesson is providing some essential laboratory protocols to guide new 
 learn:
 - "How to crude DNA Isolation from seeds"
 - "How to extract DNA from fresh pulse tissues"
-- "How to use PCR program for KASP assays, then plot the data"
+- "How to use PCR program for KASP assays, then plot the results data"
 
 data-description: "DNA extraction from pulse crop"
 ---
