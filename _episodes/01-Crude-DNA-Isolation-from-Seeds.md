@@ -1,5 +1,5 @@
 ---
-title: "How to crude DNA Isolation from Seeds"
+title: "Crude DNA Isolation from Seeds"
 teaching: 30
 exercises: 30
 questions:
