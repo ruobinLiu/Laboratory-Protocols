@@ -3,13 +3,15 @@ title: "PCR Program for KASP Assays"
 teaching: 30
 exercises: 30
 questions:
-- ""
+- "How to use PCR program for KASP assays?"
+- "How to plot the data?"
 
 objectives:
-- ""
+- "Run PCR program for KASP assays."
+- "Determine the lines score for each respective allele after plotting your data." 
 
 keypoints:
-- "Read through Safety Information before you start the experiment."
+- "Read through carefully before performing this protocol."
 
 ---
 ## Notes before starting PCR:
@@ -23,6 +25,7 @@ keypoints:
 The following is the standard PCR program we use for KASP assays using **high-quality DNA** (CTAB, Qiagen kits).   We have added a few cycles to the program recommended by LGCBiosciences in the KASP Manual.
 
 ![Screenshot of main code listing](../fig/KASP-PCR-Protocol-1.png)
+
 
 ## Notes on Program(s):
 * The first step is a PRE-PCR Fluorescence Reading at room temperature.
