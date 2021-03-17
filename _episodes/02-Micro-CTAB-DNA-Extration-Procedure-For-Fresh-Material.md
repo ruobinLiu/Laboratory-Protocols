@@ -47,7 +47,7 @@ emergency procedures, and clean-up/disposal procedures.  If you have any questio
 -	Final tubes should be labeled with complete name (for varieties) or population and line number (not entry number).
 
 
-# 2 X CTAB
+## 2 X CTAB
 
 ```
  					/100mL	       /500mL	        /1L
@@ -62,10 +62,9 @@ NaCl (FW 58.44g)	(g)		8.2		40.9		81.8
 - Slowly add components in order and allow each to dissolve.
 - Use mild heat to help facilitate dissolving – may take a couple hours.
 - Autoclave.
+-(CTAB – Cetyl-trimethyl-ammonium-bromide)
 
-**(CTAB – Cetyl-trimethyl-ammonium-bromide)**
-
-# 10% CTAB
+## 10% CTAB
 
 ```
 				        /100mL	        /500mL
