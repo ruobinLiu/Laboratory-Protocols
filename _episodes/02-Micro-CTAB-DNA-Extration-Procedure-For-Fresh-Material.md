@@ -14,10 +14,10 @@ keypoints:
 ---
 
 ## SAFETY INFORMATION
-before you start, look up the MSDS sheets for all the chemicals used in this protocol.  Ensure you follow any recommendations/rules regarding wearing personal protective equipment,
+Before you start, look up the MSDS sheets for all the chemicals used in this protocol.  Ensure you follow any recommendations/rules regarding wearing personal protective equipment,
 emergency procedures, and clean-up/disposal procedures.  If you have any questions contact your supervisor or lab manager.
 
-## The following protocol can be used to extract DNA from all pulse crops.
+## The following protocol can be used to extract DNA from all pulse crops:
 
 1. Collect a small coleoptile (2.5 cm) or leaf tissue (~100 mg) sample from the plant.  The tissue should be placed in a 1.5 mL micro-centrifuge tube and placed on ice.
 2. Grind the plant tissue in the tube using a sterile micro-pestle.
