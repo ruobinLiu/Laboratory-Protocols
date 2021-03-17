@@ -25,7 +25,7 @@ learn:
 - "How to extract DNA from fresh pulse tissues"
 - "How to use PCR program for KASP assays, then plot the results data"
 
-data-description: "DNA extraction from pulse crop"
+data-description: "DNA Extraction from Pulse Crop"
 ---
 
 The KnowPulse KnowledgeBase focuses on short question-based lessons to help researchers get their work done.
