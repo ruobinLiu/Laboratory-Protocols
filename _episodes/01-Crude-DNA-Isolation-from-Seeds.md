@@ -35,7 +35,7 @@ Before you start, look up the MSDS sheets for all the chemicals used in this pro
 -	0.25M NaOH
 
 ## Protocol:
-Photo of a bean with the seed coat scraped away on the front side
+Photo of a bean with the seed coat scraped away on the front side.There is a small amount of cotyledon tissue on the tweezers to demonstrate the amount you need for extraction. Try to keep this amount consistent between samples. Ensure you only take a sample of the cotyledon and do not damage the embryo. 
 ![Screenshot of main code listing](../fig/Crude-DNA-Isolation-from-Seeds.png)
 
 1.	Using Tweezers (or a Razor Blade or Scalpel – whichever you find easiest), chip off a small area of seed coat to expose the cotyledons.
