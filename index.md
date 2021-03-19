@@ -3,7 +3,7 @@ layout: lesson
 root: .
 # Overall title for the Lesson.
 # This should be in the form of a question if possible.
-title: "Lab Protocol"
+title: "Lab Protocols"
 
 # Single Sentence purpose for this lesson.
 short-purpose: "This lesson will show our new researchers some of the protocols we use in our research laboratory."
