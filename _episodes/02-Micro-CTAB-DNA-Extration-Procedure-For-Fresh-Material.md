@@ -38,12 +38,12 @@ emergency procedures, and clean-up/disposal procedures.  If you have any questio
 15. Decant the ethanol and add 500 µl of cold 70% ethanol.  Mix thoroughly and place @ -20&deg;C for 5-15 minutes
 16. Centrifuge the samples @ 13 000 rpm for 10 minutes.
 17. Pipette off the ethanol and let tubes air dry. Alternatively a speed-vac can be used.
-18. Resuspend DNA in 100 µl of sterile H2O.
+18. Resuspend DNA in 100 µl of sterile H<sub>2</sub>O.
 19. Add 1 &micro;l of 10 mg/mL RNAse A.  
 
 ## Notes:
 -	Samples can be left O/N after adding the ethanol in step 13 or 15.
--	While samples are incubating in the 65&ordm;C H2O bath, they should periodically be mixed by inversion.
+-	While samples are incubating in the 65&ordm;C H<sub>2</sub>O bath, they should periodically be mixed by inversion.
 -	Can expect an average product of ~200-400 ng/µl (x100µl) = 20 – 40 µg
 -	Have gotten over 1000 ng/µl = 100 µg.
 -	Final tubes should be labeled with complete name (for varieties) or population and line number (not entry number).
