@@ -42,7 +42,7 @@ emergency procedures, and clean-up/disposal procedures.  If you have any questio
 19. Add 1 &micro;l of 10 mg/mL RNAse A.  
 
 ## Notes:
--	Samples can be left O/N after adding the ethanol in step 13 or 15.
+-	Samples can be left overnight after adding the ethanol in step 13 or 15.
 -	While samples are incubating in the 65&ordm;C H<sub>2</sub>O bath, they should periodically be mixed by inversion.
 -	Can expect an average product of ~200-400 ng/µl (x100µl) = 20 – 40 µg
 -	Have gotten over 1000 ng/µl = 100 µg.
