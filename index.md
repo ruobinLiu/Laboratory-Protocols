@@ -13,7 +13,7 @@ short-purpose: "This lesson will show our new researchers some of the protocols 
 who: "Pulse Crop Researchers"
 
 # A comma-separated list of maintainers for this lesson.
-maintainers: "Lacey-Anne Sanderson, Robert Stonehouse, Ruobin Liu"
+maintainers: "Robert Stonehouse, Ruobin Liu"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
