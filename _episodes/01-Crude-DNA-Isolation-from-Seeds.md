@@ -44,7 +44,7 @@ Photo of a bean with the seed coat scraped away on the front side.There is a sma
 2.	Place a 96-well PCR micro-plate on ice.  Add 2 µl of sterile water to each well.
 3.	Add a small 1-2 µl drop of water to the exposed section of the cotyledon.  It is typically best to line up a series of seeds at once.
 4.	Using a clean toothpick scrape a small amount of seed flour.  Transfer the collected sample into the PCR well by dipping and gently swirling the toothpick into the water at the bottom of the sample well.  
--	Only a small amount of flour is needed.  More is NOT better.  See photo below.
+-	Only a small amount of flour is needed.  More is NOT better.
 -	Be as consistent as possible with regards to the amount of tissue being collected.
 5.	Repeat Steps 3-5 until all samples are collected.  
 6.	Once all samples are collected add 10 µl of 0.25M NaOH to each well.
