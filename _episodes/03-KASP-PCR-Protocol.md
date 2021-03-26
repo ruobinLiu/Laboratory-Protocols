@@ -30,10 +30,10 @@ The following is the standard PCR program we use for KASP assays using **high-qu
 ## Notes on Program(s):
 * The first step is a PRE-PCR Fluorescence Reading at room temperature.
   - LGC Biosciences does not include a PRE-PCR reading in their recommendations, but we find that using a PRE-PCR read to standardize the data really helps to resolve the clustering. (see calculation and plot below) 
-  - The second step is a hot start for the Taq.  This is required to activate the Taq included in the KASP reagent.
-  - The first cycling step is 10 cycles consisting of a 2-step touchdown ranging from 65°C to 57°C (decreasing 0.8°C/cycle).
-* This is recommended by LGC Biosciences.  The touchdown helps to make the PCR program universal for all KASP assays despite minor differences in optimal annealing temperatures.
-  - The second cycling step consists of 32 cycles with an annealing/extension of 57°C.
+* The second step is a hot start for the Taq.  This is required to activate the Taq included in the KASP reagent.
+* The first cycling step is 10 cycles consisting of a 2-step touchdown ranging from 65°C to 57°C (decreasing 0.8°C/cycle).
+  - This is recommended by LGC Biosciences.  The touchdown helps to make the PCR program universal for all KASP assays despite minor differences in optimal annealing temperatures.
+* The second cycling step consists of 32 cycles with an annealing/extension of 57°C.
   - A POST-PCR Fluorescence Reading is then taken at room temperature.
 * It is highly recommended that all fluorescence readings are taken at the same temperature, preferably at room temperature.
   - We find, with high quality DNA (CTAB, Qiagen Kits), this is typically enough cycling to detect and score differences in fluorescence readings.  
