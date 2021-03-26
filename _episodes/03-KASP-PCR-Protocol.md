@@ -34,12 +34,12 @@ The following is the standard PCR program we use for KASP assays using **high-qu
 * The first cycling step is 10 cycles consisting of a 2-step touchdown ranging from 65°C to 57°C (decreasing 0.8°C/cycle).
   - This is recommended by LGC Biosciences.  The touchdown helps to make the PCR program universal for all KASP assays despite minor differences in optimal annealing temperatures.
 * The second cycling step consists of 32 cycles with an annealing/extension of 57°C.
-  - A POST-PCR Fluorescence Reading is then taken at room temperature.
-* It is highly recommended that all fluorescence readings are taken at the same temperature, preferably at room temperature.
-  - We find, with high quality DNA (CTAB, Qiagen Kits), this is typically enough cycling to detect and score differences in fluorescence readings.  
-  - For DNA taken from NaOH Treatment, or for assays where fluorescence readings are still too low after 42 cycles, we add more cycles. 
-  - The Add-on consists of 16 cycles, with a fluorescence reading after every 4 cycles.
-  - The Add-on provides POST-PCR fluorescence readings at 4 more time-points.   This allows one the flexibility to find the optimal time-point from which to take and plot the data. 
+* A POST-PCR Fluorescence Reading is then taken at room temperature.
+  - It is highly recommended that all fluorescence readings are taken at the same temperature, preferably at room temperature.
+* We find, with high quality DNA (CTAB, Qiagen Kits), this is typically enough cycling to detect and score differences in fluorescence readings.  
+* For DNA taken from NaOH Treatment, or for assays where fluorescence readings are still too low after 42 cycles, we add more cycles. 
+* The Add-on consists of 16 cycles, with a fluorescence reading after every 4 cycles.
+* The Add-on provides POST-PCR fluorescence readings at 4 more time-points.   This allows one the flexibility to find the optimal time-point from which to take and plot the data. 
 
 ## Plotting the Data:
 * If the software you are using to view your plots is not user-friendly, or inadequate, use Excel.
