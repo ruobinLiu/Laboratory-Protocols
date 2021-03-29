@@ -28,7 +28,7 @@ emergency procedures, and clean-up/disposal procedures.  If you have any questio
 5. Add 500 µl of chloroform/isoamyl-alcohol (24:1).  Gently mix the 2 phases together.
 6. Centrifuge the samples @ 13 000 rpm for 10 minutes.
 7. Transfer the upper, aqueous phase to a new 1.5 mL micro-centrifuge tube.
-8. Add 1/10 volume (~50 µl or 2-3 small drops) of 65&ordm;C 10% CTAB extraction buffer.  Mix thoroughly by inversion.
+8. Add 1/10 volume (~50 µl or 2-3 small drops) of 65&ordm;C [10% CTAB Extraction Buffer](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html).  Mix thoroughly by inversion.
 9. Incubate tubes in a 65&deg;C water bath for 5-10 minutes.
 10. Add 500 µl of chloroform/isoamyl-alcohol (24:1).  Gently mix the 2 phases together.
 11. Centrifuge the samples @ 13 000 rpm for 10 minutes.
