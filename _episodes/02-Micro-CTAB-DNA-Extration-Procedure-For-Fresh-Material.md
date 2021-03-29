@@ -23,7 +23,7 @@ emergency procedures, and clean-up/disposal procedures.  If you have any questio
 
 1. Collect a small coleoptile (2.5 cm) or leaf tissue (~100 mg) sample from the plant.  The tissue should be placed in a 1.5 mL micro-centrifuge tube and placed on ice.
 2. Grind the plant tissue in the tube using a sterile micro-pestle.
-3. Add 500 µl of 65&deg;C 2X CTAB Extraction Buffer.  Mix thoroughly by inversion.  
+3. Add 500 µl of 65&deg;C [2X CTAB Extraction Buffer](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html).  Mix thoroughly by inversion.  
 4. Incubate tubes in a 65&deg;C water bath for 5-10 minutes.
 5. Add 500 µl of chloroform/isoamyl-alcohol (24:1).  Gently mix the 2 phases together.
 6. Centrifuge the samples @ 13 000 rpm for 10 minutes.
