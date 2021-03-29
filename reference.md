@@ -32,11 +32,11 @@ title: "Reference"
 - Autoclave.
 
 ## 0.5M EDTA pH 8.0
-- Add 186.1 g of Disodium-ethylenediamine-tetra-acetate to 800mL H2O.
+- Add 186.1 g of Disodium-ethylenediamine-tetra-acetate to 800mL H<sub>2</sub>O.
 - pH to 8.0, using NaOH pellets, and adjust final volume to 1 L.
 - Autoclave
 
 ## 1M Tris-HCl pH 8.0
-- Add 121.1 g of Tris base in 800mL H2O.
+- Add 121.1 g of Tris base in 800mL H<sub>2</sub>O.
 - pH to 8.0, using HCl, and adjust final volume to 1 L.
 - Autoclave.
