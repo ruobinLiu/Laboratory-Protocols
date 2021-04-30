@@ -1,16 +1,18 @@
 ---
 title: "Nuclei Isolation and High Molecular Weight DNA Extraction"
-teaching: 
-exercises: 
+teaching: 2 days
+exercises: 2 days
 questions:
-- "?"
+- "How to extra DNA?"
 
 objectives:
 - ""
  
 
 keypoints:
-
+- Tissue needs to be handled differently depends on storage temperature (fresh/frozen).
+- Only put even number of tubes into centrifuge.
+- Do not overdry your pellets. 
 
 
 
@@ -49,6 +51,7 @@ Day 1:
 14. Digest the cell lysate overnight (12-18 hours) at 37°C in a shaking incubator set at ~50 rpm.  (keep tubes in a rack, with only a slight tilt upwards from horizontal).
 
 Day 2:
+
 15. Add 1.2 mL of 5M NaCl to each tube.  Mix by gently inverting the tube ~5 times.
 
 16. Centrifuge at ~1000g, at 4°C, for 15 minutes.
