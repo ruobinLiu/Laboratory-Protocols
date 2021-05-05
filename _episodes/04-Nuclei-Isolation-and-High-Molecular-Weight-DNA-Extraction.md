@@ -3,10 +3,10 @@ title: "Nuclei Isolation and High Molecular Weight DNA Extraction"
 teaching: 2 days
 exercises: 2 days
 questions:
-- "How to extra DNA?"
+- "How to extract DNA from a tissue sample?"
 
 objectives:
-- ""
+- "Extract DNA from fresh or frozen tissue."
  
 
 keypoints:
@@ -20,7 +20,7 @@ keypoints:
 This nuclei isolation protocol is an adaptation of the one reported by Zhang et al. (1995).
 The HMW DNA extraction protocol is one recommended by *10X Genomics*.
 
-Day 1:
+## Day 1:
 
 1. Add ice-cold 1x HB buffer (~10mL:1g tissue) to 5-7 g of fresh (or frozen) tissue.  Homogenize thoroughly using a blender.  Conversely frozen tissue can be ground using a cold mortar and pestle and then mixed into the 1xHB buffer.
 
@@ -50,7 +50,7 @@ Day 1:
 
 14. Digest the cell lysate overnight (12-18 hours) at 37°C in a shaking incubator set at ~50 rpm.  (keep tubes in a rack, with only a slight tilt upwards from horizontal).
 
-Day 2:
+## Day 2:
 
 15. Add 1.2 mL of 5M NaCl to each tube.  Mix by gently inverting the tube ~5 times.
 
@@ -65,4 +65,52 @@ Day 2:
 20. Resupend the pellet in 100 uL of sterile water.  Allow the DNA to completely resuspend overnight before attempting quality/quantity checks.  Add more water (and/or very gentle mixing) if required.
 
 
+## Solutions:
+
+First make and autoclave these component solutions:
+- 1M Tris Base
+- 3M KCl
+- 0.5M EDTA (pH 8.0)
+- DI Water
+- 5M NaCl
+
+10x HB (Homogenization buffer):
+- Use about 30 mL/extraction
+- Store in refrigerator
+
+Final solution should be:
+0.1 M Tris base
+0.8 M KCl
+0.1 M EDTA
+10 mM spermidine
+10 mM spermine
+- adjust pH to 9.4-9.5 with NaOH
+
+To prepare 500 mL:
+50 mL of 1 M Tris (pH 9.5)
+133 mL of 3 M KCl
+100 mL of 0.5 M EDTA 
+780 µL of spermidine
+1.741 g of spermine
+
+Wash Buffer (AKA 1X HB):
+- Make fresh on day of use
+
+1/10th volume 10x HB
+0.5 M Sucrose
+
+Lysis Buffer:
+- Use 3 mL per tube (step 12)
+
+10 mM Tris-HCl
+400 mM NaCl
+2 mM EDTA (pH 8.0)
+
+Proteinase K Solution:
+- Make fresh on day of use
+- Use 0.5 mL per tube (step 13)
+
+1 mg/mL Proteinase K
+1% SDS
+2mM EDTA (pH 8.0)
 
