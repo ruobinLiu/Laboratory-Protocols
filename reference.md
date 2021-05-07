@@ -42,7 +42,7 @@ title: "Reference"
 - Autoclave.
 
 ## Wash Buffer (AKA 1X HB):
-- Make fresh on day of use
+*Make fresh on day of use*
 
 - 1/10th volume 10x HB
 - 0.5 M Sucrose
