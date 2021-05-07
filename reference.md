@@ -40,3 +40,10 @@ title: "Reference"
 - Add 121.1 g of Tris base in 800mL H<sub>2</sub>O.
 - pH to 8.0, using HCl, and adjust final volume to 1 L.
 - Autoclave.
+
+## Wash Buffer (AKA 1X HB):
+- Make fresh on day of use
+
+- 1/10th volume 10x HB
+- 0.5 M Sucrose
+
