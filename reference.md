@@ -41,9 +41,45 @@ title: "Reference"
 - pH to 8.0, using HCl, and adjust final volume to 1 L.
 - Autoclave.
 
+## 10x HB (Homogenization buffer):
+- *Use about 30 mL/extraction*
+- *Store in refrigerator*
+
+### Final solution should be:
+- 0.1 M Tris base
+- 0.8 M KCl
+- 0.1 M EDTA
+- 10 mM spermidine
+- 10 mM spermine
+- adjust pH to 9.4-9.5 with NaOH
+
+### To prepare 500 mL:
+- 50 mL of 1 M Tris (pH 9.5)
+- 133 mL of 3 M KCl
+- 100 mL of 0.5 M EDTA 
+- 780 µL of spermidine
+- 1.741 g of spermine
+
 ## Wash Buffer (AKA 1X HB):
 *Make fresh on day of use*
 
 - 1/10th volume 10x HB
 - 0.5 M Sucrose
+
+## Lysis Buffer:
+*Use 3 mL per tube (step 12)*
+
+- 10 mM Tris-HCl
+- 400 mM NaCl
+- 2 mM EDTA (pH 8.0)
+
+
+
+## Proteinase K Solution:
+*Make fresh on day of use*
+* Use 0.5 mL per tube (step 13)*
+
+- 1 mg/mL Proteinase K
+- 1% SDS
+- 2mM EDTA (pH 8.0)
 
