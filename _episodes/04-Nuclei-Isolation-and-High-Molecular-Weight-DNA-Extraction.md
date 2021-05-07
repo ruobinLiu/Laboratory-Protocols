@@ -12,10 +12,9 @@ objectives:
 keypoints:
 - Tissue needs to be handled differently depends on storage temperature (fresh/frozen).
 - Both 1xHB buffer and Proteinase K Solution need to be made fresh on the day of use.
-
-
 - Only put even number of tubes into centrifuge.
 - Do not overdry your pellets. 
+- See Reference section for solution recipes.
 
 
 
@@ -31,25 +30,6 @@ The HMW DNA extraction protocol is one recommended by *10X Genomics*.
 - 0.5M EDTA (pH 8.0)
 - DI Water
 - 5M NaCl
-
-## 10x HB (Homogenization buffer):
-- Use about 30 mL/extraction
-- Store in refrigerator
-
-Final solution should be:
-0.1 M Tris base
-0.8 M KCl
-0.1 M EDTA
-10 mM spermidine
-10 mM spermine
-- adjust pH to 9.4-9.5 with NaOH
-
-To prepare 500 mL:
-50 mL of 1 M Tris (pH 9.5)
-133 mL of 3 M KCl
-100 mL of 0.5 M EDTA 
-780 µL of spermidine
-1.741 g of spermine
 
 
 ## Day 1:
