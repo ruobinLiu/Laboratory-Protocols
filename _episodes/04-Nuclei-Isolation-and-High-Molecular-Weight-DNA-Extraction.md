@@ -11,6 +11,9 @@ objectives:
 
 keypoints:
 - Tissue needs to be handled differently depends on storage temperature (fresh/frozen).
+- Both 1xHB buffer and Proteinase K Solution need to be made fresh on the day of use.
+
+
 - Only put even number of tubes into centrifuge.
 - Do not overdry your pellets. 
 
@@ -20,13 +23,42 @@ keypoints:
 This nuclei isolation protocol is an adaptation of the one reported by Zhang et al. (1995).
 The HMW DNA extraction protocol is one recommended by *10X Genomics*.
 
+## Preparation
+
+### First make and autoclave these component solutions:
+- 1M Tris Base
+- 3M KCl
+- 0.5M EDTA (pH 8.0)
+- DI Water
+- 5M NaCl
+
+## 10x HB (Homogenization buffer):
+- Use about 30 mL/extraction
+- Store in refrigerator
+
+Final solution should be:
+0.1 M Tris base
+0.8 M KCl
+0.1 M EDTA
+10 mM spermidine
+10 mM spermine
+- adjust pH to 9.4-9.5 with NaOH
+
+To prepare 500 mL:
+50 mL of 1 M Tris (pH 9.5)
+133 mL of 3 M KCl
+100 mL of 0.5 M EDTA 
+780 µL of spermidine
+1.741 g of spermine
+
+
 ## Day 1:
 
-1. Add ice-cold 1x HB buffer (~10mL:1g tissue) to 5-7 g of fresh (or frozen) tissue.  Homogenize thoroughly using a blender.  Conversely frozen tissue can be ground using a cold mortar and pestle and then mixed into the 1xHB buffer.
+1. Add ice-cold [1x HB buffer](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html) (~10mL:1g tissue) to 5-7 g of fresh (or frozen) tissue.  Homogenize thoroughly using a blender.  Conversely frozen tissue can be ground using a cold mortar and pestle and then mixed into the [1xHB buffer](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html).
 
 2. Transfer the blended/ground tissue to an ice-cold 500 mL beaker.  Gently swirl the contents with a magnetic stir bar for 5 minutes.  (We keep the beaker in an ice bath while swirling).
 
-3. Add Triton X-100 to make the final concentration 0.5% (which would be 0.025 ul/1mL of 1xHB buffer).  Swirl the contents for another 5 minutes.
+3. Add Triton X-100 to make the final concentration 0.5% (which would be 0.025 ul/1mL of [1xHB buffer](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html)).  Swirl the contents for another 5 minutes.
 
 4. Filter the contents into a new beaker, through 2 layers of cheesecloth and a layer of Miracloth, by squeezing gently with gloved hands.
 
@@ -44,9 +76,9 @@ The HMW DNA extraction protocol is one recommended by *10X Genomics*.
 
 11. Following final wash, discard supernatant and remove all traces of supernatant using a pipette.
 
-12. Add 3 mL of Lysis Buffer to each tube.  Gently re-suspend the pellet by inversion ~20 times.
+12. Add 3 mL of [Lysis Buffer](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html) to each tube.  Gently re-suspend the pellet by inversion ~20 times.
 
-13. Add 0.2 mL of 10% SDS to each tube.  Add 0.5 mL of Proteinase K solution to each tube.  Gently mix by inversion 5-10 times.
+13. Add 0.2 mL of 10% SDS to each tube.  Add 0.5 mL of [Proteinase K solution](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html) to each tube.  Gently mix by inversion 5-10 times.
 
 14. Digest the cell lysate overnight (12-18 hours) at 37°C in a shaking incubator set at ~50 rpm.  (keep tubes in a rack, with only a slight tilt upwards from horizontal).
 
