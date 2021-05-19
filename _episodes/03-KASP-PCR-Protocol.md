@@ -1,7 +1,7 @@
 ---
 title: "PCR Program for KASP Assays"
-teaching: 30
-exercises: 30
+teaching: 30 minutes
+exercises: 30 minutes
 questions:
 - "How to use PCR program for KASP assays?"
 - "How to plot the data?"
