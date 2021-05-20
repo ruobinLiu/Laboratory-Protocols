@@ -41,6 +41,13 @@ title: "Reference"
 - pH to 8.0, using HCl, and adjust final volume to 1 L.
 - Autoclave.
 
+### First make and autoclave these component solutions:
+- 1M Tris Base
+- 3M KCl
+- 0.5M EDTA (pH 8.0)
+- DI Water
+- 5M NaCl
+
 ## 10x HB (Homogenization buffer):
 - *Use about 30 mL/extraction*
 - *Store in refrigerator*
