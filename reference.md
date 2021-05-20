@@ -41,7 +41,7 @@ title: "Reference"
 - pH to 8.0, using HCl, and adjust final volume to 1 L.
 - Autoclave.
 
-### First make and autoclave these component solutions:
+## First make and autoclave these component solutions:
 - 1M Tris Base
 - 3M KCl
 - 0.5M EDTA (pH 8.0)
