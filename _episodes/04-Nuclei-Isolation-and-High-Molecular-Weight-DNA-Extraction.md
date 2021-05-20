@@ -74,7 +74,7 @@ The HMW DNA extraction protocol is one recommended by *10X Genomics*.
 
 ## Day 1:
 
-1. Add ice-cold [1x HB buffer](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html) (~10mL:1g tissue) to 5-7 g of fresh (or frozen) tissue.  Homogenize thoroughly using a blender.  Conversely frozen tissue can be ground using a cold mortar and pestle and then mixed into the [1xHB buffer](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html).
+1. Add ice-cold [1x HB buffer](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#wash-buffer-aka-1x-hb) (~10mL:1g tissue) to 5-7 g of fresh (or frozen) tissue.  Homogenize thoroughly using a blender.  Conversely frozen tissue can be ground using a cold mortar and pestle and then mixed into the [1xHB buffer](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html).
 
 2. Transfer the blended/ground tissue to an ice-cold 500 mL beaker.  Gently swirl the contents with a magnetic stir bar for 5 minutes.  (We keep the beaker in an ice bath while swirling).
 
