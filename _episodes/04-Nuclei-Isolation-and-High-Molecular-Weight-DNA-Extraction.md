@@ -23,7 +23,12 @@ The HMW DNA extraction protocol is one recommended by *10X Genomics*.
 
 ## Preparation
 
-### [First make and autoclave these component solutions](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#first-make-and-autoclave-these-component-solutions)
+### First make and autoclave these component solutions
+- 1M Tris Base
+- 3M KCl
+- 0.5M EDTA (pH 8.0)
+- DI Water
+- 5M NaCl
 
 ### [10x HB (Homogenization buffer)](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#10x-hb-homogenization-buffer)
 
