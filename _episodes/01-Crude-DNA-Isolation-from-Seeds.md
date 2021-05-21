@@ -1,7 +1,7 @@
 ---
 title: "Crude DNA Isolation from Seeds"
-teaching: 10
-exercises: 30
+teaching: 10 minutes
+exercises: 30 minutes
 questions:
 - "How to crude DNA Isolation from seeds?"
 

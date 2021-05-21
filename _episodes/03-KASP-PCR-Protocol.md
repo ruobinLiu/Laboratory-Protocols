@@ -1,7 +1,7 @@
 ---
 title: "PCR Program for KASP Assays"
-teaching: 20
-exercises: 90
+teaching: 20 minutes
+exercises: 1.5 hours
 questions:
 - "How to use PCR program for KASP assays?"
 - "How to plot the data?"

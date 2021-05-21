@@ -1,7 +1,7 @@
 ---
 title: "Micro-CTAB DNA Extraction Procedure for Fresh Material"
-teaching: 15
-exercises: 150
+teaching: 15 minutes
+exercises: 2.5 hours
 questions:
 - "How to extract DNA from fresh pulse tissues?"
 
