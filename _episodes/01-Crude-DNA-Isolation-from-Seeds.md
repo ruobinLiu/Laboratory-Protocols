@@ -1,6 +1,6 @@
 ---
 title: "Crude DNA Isolation from Seeds"
-teaching: 30
+teaching: 10
 exercises: 30
 questions:
 - "How to crude DNA Isolation from seeds?"
