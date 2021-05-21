@@ -71,7 +71,7 @@ title: "Reference"
 ## Wash Buffer (AKA 1X HB):
 *Make fresh on day of use*
 
-- 1/10th volume 10x HB
+- 1/10<sup>th</sup> volume 10x HB
 - 0.5 M Sucrose
 
 ## Lysis Buffer:
