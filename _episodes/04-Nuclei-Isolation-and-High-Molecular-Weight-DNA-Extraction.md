@@ -23,9 +23,9 @@ The HMW DNA extraction protocol is one recommended by *10X Genomics*.
 
 ## Preparation
 
-### [First make and autoclave these component solutions](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#first-make-and-autoclave-these-component-solutions:)
+### [First make and autoclave these component solutions](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#first-make-and-autoclave-these-component-solutions)
 
-### [10x HB (Homogenization buffer)](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#10x-HB-Homogenization-buffer)
+### [10x HB (Homogenization buffer)](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#10x-hb-homogenization-buffer)
 
 
 ### [Final solution should be](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#final-solution-should-be)
@@ -33,27 +33,15 @@ The HMW DNA extraction protocol is one recommended by *10X Genomics*.
 ### [To prepare 500 mL](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#to-prepare-500-ml)
 
 
-### Wash Buffer (AKA 1X HB):
-#### Note: Make fresh on day of use
+### [Wash Buffer (AKA 1X HB)](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#wash-buffer-aka-1x-hb)
+- 1xHB, MUST be made fresh on Day 1
 
-- 1/10<sup>th</sup> volume 10x HB
-- 0.5 M Sucrose
-
-### Lysis Buffer:
-#### Note: Use 3 mL per tube (step 12)
+### [Lysis Buffer](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#lysis-buffer)
+- Use 3 mL per tube (step 12)
 
 
-- 10 mM Tris-HCl
-- 400 mM NaCl
-- 2 mM EDTA (pH 8.0)
-
-### Proteinase K Solution:
-#### Note: Make fresh on day of use
-#### Note:Use 0.5 mL per tube (step 13)
-
-- 1 mg/mL Proteinase K
-- 1% SDS
-- 2mM EDTA (pH 8.0)
+### [Proteinase K Solution](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#proteinase-k-solution)
+- MUST be made on Day 1 for step 13)
 
 
 ## Day 1:
