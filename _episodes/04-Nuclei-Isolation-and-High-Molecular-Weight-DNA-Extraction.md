@@ -23,58 +23,26 @@ The HMW DNA extraction protocol is one recommended by *10X Genomics*.
 
 ## Preparation
 
-### First make and autoclave these component solutions:
-- 1M Tris Base
-- 3M KCl
-- 0.5M EDTA (pH 8.0)
-- DI Water
-- 5M NaCl
+### [First make and autoclave these component solutions](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#first-make-and-autoclave-these-component-solutions)
 
-### 10x HB (Homogenization buffer):
-- Use about 30 mL/extraction
-- Store in refrigerator
-
-### Final solution should be:
-- 0.1 M Tris base
-- 0.8 M KCl
-- 0.1 M EDTA
-- 10 mM spermidine
-- 10 mM spermine
-#### Note: adjust pH to 9.4-9.5 with NaOH
-
-### To prepare 500 mL:
-- 50 mL of 1 M Tris (pH 9.5)
-- 133 mL of 3 M KCl
-- 100 mL of 0.5 M EDTA 
-- 780 µL of spermidine
-- 1.741 g of spermine
-
-### Wash Buffer (AKA 1X HB):
-#### Note: Make fresh on day of use
-
-- 1/10<sup>th</sup> volume 10x HB
-- 0.5 M Sucrose
-
-### Lysis Buffer:
-#### Note: Use 3 mL per tube (step 12)
+### [10x HB (Homogenization buffer)](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#10x-hb-homogenization-buffer)
 
 
-- 10 mM Tris-HCl
-- 400 mM NaCl
-- 2 mM EDTA (pH 8.0)
 
-### Proteinase K Solution:
-#### Note: Make fresh on day of use
-#### Note:Use 0.5 mL per tube (step 13)
+### [Wash Buffer (AKA 1X HB)](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#wash-buffer-aka-1x-hb)
+- 1xHB, MUST be made fresh on Day 1
 
-- 1 mg/mL Proteinase K
-- 1% SDS
-- 2mM EDTA (pH 8.0)
+### [Lysis Buffer](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#lysis-buffer)
+- Use 3 mL per tube (step 12)
+
+
+### [Proteinase K Solution](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#proteinase-k-solution)
+- MUST be made on Day 1 for step 13
 
 
 ## Day 1:
 
-1. Add ice-cold [1x HB buffer](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html) (~10mL:1g tissue) to 5-7 g of fresh (or frozen) tissue.  Homogenize thoroughly using a blender.  Conversely frozen tissue can be ground using a cold mortar and pestle and then mixed into the [1xHB buffer](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html).
+1. Add ice-cold [1x HB buffer](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#wash-buffer-aka-1x-hb) (~10mL:1g tissue) to 5-7 g of fresh (or frozen) tissue.  Homogenize thoroughly using a blender.  Conversely frozen tissue can be ground using a cold mortar and pestle and then mixed into the [1xHB buffer](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#wash-buffer-aka-1x-hb).
 
 2. Transfer the blended/ground tissue to an ice-cold 500 mL beaker.  Gently swirl the contents with a magnetic stir bar for 5 minutes.  (We keep the beaker in an ice bath while swirling).
 

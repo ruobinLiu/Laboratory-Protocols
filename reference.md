@@ -41,11 +41,19 @@ title: "Reference"
 - pH to 8.0, using HCl, and adjust final volume to 1 L.
 - Autoclave.
 
+## First make and autoclave these component solutions:
+- 1M Tris Base
+- 3M KCl
+- 0.5M EDTA (pH 8.0)
+- DI Water
+- 5M NaCl
+
 ## 10x HB (Homogenization buffer):
 - *Use about 30 mL/extraction*
 - *Store in refrigerator*
 
-### Final solution should be:
+
+### Final solution should be
 - 0.1 M Tris base
 - 0.8 M KCl
 - 0.1 M EDTA
@@ -53,7 +61,7 @@ title: "Reference"
 - 10 mM spermine
 - adjust pH to 9.4-9.5 with NaOH
 
-### To prepare 500 mL:
+### To prepare 500 mL
 - 50 mL of 1 M Tris (pH 9.5)
 - 133 mL of 3 M KCl
 - 100 mL of 0.5 M EDTA 
@@ -63,7 +71,7 @@ title: "Reference"
 ## Wash Buffer (AKA 1X HB):
 *Make fresh on day of use*
 
-- 1/10th volume 10x HB
+- 1/10<sup>th</sup> volume 10x HB
 - 0.5 M Sucrose
 
 ## Lysis Buffer:
