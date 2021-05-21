@@ -1,7 +1,7 @@
 ---
 title: "PCR Program for KASP Assays"
-teaching: 30
-exercises: 30
+teaching: 20
+exercises: 90
 questions:
 - "How to use PCR program for KASP assays?"
 - "How to plot the data?"
