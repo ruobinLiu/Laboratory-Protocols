@@ -1,6 +1,6 @@
 ---
 title: "Nuclei Isolation and High Molecular Weight DNA Extraction"
-teaching: 2 days
+teaching: 20 minutes
 exercises: 2 days
 questions:
 - "How to extract DNA from a tissue sample?"
