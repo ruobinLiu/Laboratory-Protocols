@@ -28,10 +28,20 @@ The HMW DNA extraction protocol is one recommended by *10X Genomics*.
 ### [10x HB (Homogenization buffer)](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#10x-hb-homogenization-buffer)
 
 
-### [Final solution should be](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#final-solution-should-be)
+### Final solution should be
+- 0.1 M Tris base
+- 0.8 M KCl
+- 0.1 M EDTA
+- 10 mM spermidine
+- 10 mM spermine
+- adjust pH to 9.4-9.5 with NaOH
 
-### [To prepare 500 mL](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#to-prepare-500-ml)
-
+### To prepare 500 mL
+- 50 mL of 1 M Tris (pH 9.5)
+- 133 mL of 3 M KCl
+- 100 mL of 0.5 M EDTA 
+- 780 µL of spermidine
+- 1.741 g of spermine
 
 ### [Wash Buffer (AKA 1X HB)](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#wash-buffer-aka-1x-hb)
 - 1xHB, MUST be made fresh on Day 1
