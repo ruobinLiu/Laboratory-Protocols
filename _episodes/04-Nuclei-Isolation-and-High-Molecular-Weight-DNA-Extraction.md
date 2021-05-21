@@ -41,7 +41,7 @@ The HMW DNA extraction protocol is one recommended by *10X Genomics*.
 
 
 ### [Proteinase K Solution](https://knowpulse-knowledgebase.github.io/Laboratory-Protocols/reference.html#proteinase-k-solution)
-- MUST be made on Day 1 for step 13)
+- MUST be made on Day 1 for step 13
 
 
 ## Day 1:
