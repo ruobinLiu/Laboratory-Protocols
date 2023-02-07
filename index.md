@@ -29,6 +29,14 @@ learn:
 - "How to use PCR program for KASP assays, then plot the results data"
 
 data-description: "DNA Extraction from Pulse Crop"
+
+# A statement providing attribution for the material and giving context to the citation
+attribution: "These protocols were developed by Rob Stonehouse in Dr. Kirstin Bett's Pulse Crop Research lab at the University of Saskatchewan. Ruobin Liu worked with Rob Stonehouse to format these protocols for this tutorial."
+
+# A casual citation for the protocol
+# Format: Author(s). Editor, or professor. Year. Title of lab manual [lab manual]. Place of Publication: Publisher.
+# Example: Dorken M. and Nol E. 2014 Fall. Laboratory Manual for Biology 1020H [lab manual]. Peterborough (ON): Trent University.
+citation: "Stonehouse, R. Bett, KE. 2022. Molecular marker assay from DNA extraction protocol for the USASK Pulse Molecular Biology Laboratory [lab protocol]. Saskatoon (SK): University of Saskatchewan."
 ---
 
 The KnowPulse KnowledgeBase focuses on short question-based lessons to help researchers get their work done.
@@ -46,6 +54,12 @@ The KnowPulse KnowledgeBase focuses on short question-based lessons to help rese
 	<li style="font-weight:bold">{{ item|markdownify }}</li>
 	{% endfor %}
 </ul>
+
+> ## Attribution
+>
+> {{ page.attribution }}
+>
+> <div class="citation">{{ page.citation }}</div>
 
 > ## Getting Started
 >
