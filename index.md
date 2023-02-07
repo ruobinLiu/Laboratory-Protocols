@@ -15,6 +15,9 @@ who: "Pulse Crop Researchers"
 # A comma-separated list of maintainers for this lesson.
 maintainers: "Robert Stonehouse, Ruobin Liu"
 
+# A comma-separated list of the original authors (i.e. the person who determined the protocol or wrote most of the content.)
+authors: "Robert Stonehouse"
+
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
 why: "This lesson is providing some essential laboratory protocols to guide new researchers to conduct their experiments."
@@ -33,6 +36,7 @@ The KnowPulse KnowledgeBase focuses on short question-based lessons to help rese
 - **Purpose:** {{ page.short-purpose }}
 - **Who:** {{ page.who }}
 - **Maintainer(s):** {{ page.maintainers }}
+- **Original Author(s):** {{ page.authors }}
 
 {{ page.why }}
 
