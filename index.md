@@ -31,12 +31,12 @@ learn:
 data-description: "DNA Extraction from Pulse Crop"
 
 # A statement providing attribution for the material and giving context to the citation
-attribution: "These protocols were developed by Rob Stonehouse in Dr. Kirstin Bett's Pulse Crop Research lab at the University of Saskatchewan. Ruobin Liu worked with Rob Stonehouse to format these protocols for this tutorial."
+attribution: "These protocols were originally developed by Wang H, Qi M, Cutler AJ (1993; DOI [10.1093/nar/21.17.4153](https://academic.oup.com/nar/article/21/17/4153/1165503)) and have been optimized for use in legumes by Rob Stonehouse and Akiko Tomita in Dr. Kirstin Bett's Molecular Pulse Crop Research lab at the University of Saskatchewan. Ruobin Liu worked with Rob Stonehouse to format these protocols for this tutorial."
 
 # A casual citation for the protocol
 # Format: Author(s). Editor, or professor. Year. Title of lab manual [lab manual]. Place of Publication: Publisher.
 # Example: Dorken M. and Nol E. 2014 Fall. Laboratory Manual for Biology 1020H [lab manual]. Peterborough (ON): Trent University.
-citation: "Stonehouse, R. Bett, KE. 2022. Molecular marker assay from DNA extraction protocol for the USASK Pulse Molecular Biology Laboratory [lab protocol]. Saskatoon (SK): University of Saskatchewan."
+citation: "Stonehouse R and Tomita A. Bett, KE. 2022. Molecular marker assay from DNA extraction protocol for the USASK Pulse Molecular Biology Laboratory [lab protocol]. Saskatoon (SK): University of Saskatchewan."
 ---
 
 The KnowPulse KnowledgeBase focuses on short question-based lessons to help researchers get their work done.
@@ -60,6 +60,8 @@ The KnowPulse KnowledgeBase focuses on short question-based lessons to help rese
 > {{ page.attribution }}
 >
 > <div class="citation">{{ page.citation }}</div>
+>
+{: .prereq}
 
 > ## Getting Started
 >
