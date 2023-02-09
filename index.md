@@ -16,7 +16,7 @@ who: "Pulse Crop Researchers"
 maintainers: "Robert Stonehouse, Ruobin Liu"
 
 # A comma-separated list of the original authors (i.e. the person who determined the protocol or wrote most of the content.)
-authors: "Robert Stonehouse"
+authors: "Robert Stonehouse, Akiko Tomita"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
@@ -31,7 +31,7 @@ learn:
 data-description: "DNA Extraction from Pulse Crop"
 
 # A statement providing attribution for the material and giving context to the citation
-attribution: "These protocols were originally developed by Wang H, Qi M, Cutler AJ (1993; DOI [10.1093/nar/21.17.4153](https://academic.oup.com/nar/article/21/17/4153/1165503)) and have been optimized for use in legumes by Rob Stonehouse and Akiko Tomita in Dr. Kirstin Bett's Molecular Pulse Crop Research lab at the University of Saskatchewan. Ruobin Liu worked with Rob Stonehouse to format these protocols for this tutorial."
+attribution: "These protocols were originally developed by Wang H, Qi M, Cutler AJ (1993; DOI [10.1093/nar/21.17.4153](https://academic.oup.com/nar/article/21/17/4153/1165503)) and have been optimized for use in legumes by Robert Stonehouse and Akiko Tomita in Dr. Kirstin Bett's Molecular Pulse Crop Research lab at the University of Saskatchewan. Ruobin Liu worked with Robert Stonehouse to format these protocols for this tutorial."
 
 # A casual citation for the protocol
 # Format: Author(s). Editor, or professor. Year. Title of lab manual [lab manual]. Place of Publication: Publisher.
