@@ -15,6 +15,9 @@ who: "Pulse Crop Researchers"
 # A comma-separated list of maintainers for this lesson.
 maintainers: "Robert Stonehouse, Ruobin Liu"
 
+# A comma-separated list of the original authors (i.e. the person who determined the protocol or wrote most of the content.)
+authors: "Robert Stonehouse, Akiko Tomita"
+
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
 why: "This lesson is providing some essential laboratory protocols to guide new researchers to conduct their experiments."
@@ -26,6 +29,14 @@ learn:
 - "How to use PCR program for KASP assays, then plot the results data"
 
 data-description: "DNA Extraction from Pulse Crop"
+
+# A statement providing attribution for the material and giving context to the citation
+attribution: "These protocols were originally developed by Wang H, Qi M, Cutler AJ (1993; DOI [10.1093/nar/21.17.4153](https://academic.oup.com/nar/article/21/17/4153/1165503)) and have been optimized for use in legumes by Robert Stonehouse and Akiko Tomita in Dr. Kirstin Bett's Molecular Pulse Crop Research lab at the University of Saskatchewan. Ruobin Liu worked with Robert Stonehouse to format these protocols for this tutorial."
+
+# A casual citation for the protocol
+# Format: Author(s). Editor, or professor. Year. Title of lab manual [lab manual]. Place of Publication: Publisher.
+# Example: Dorken M. and Nol E. 2014 Fall. Laboratory Manual for Biology 1020H [lab manual]. Peterborough (ON): Trent University.
+citation: "Stonehouse R and Tomita A. Bett, KE. 2022. Molecular marker assay from DNA extraction protocol for the USASK Pulse Molecular Biology Laboratory [lab protocol]. Saskatoon (SK): University of Saskatchewan."
 ---
 
 The KnowPulse KnowledgeBase focuses on short question-based lessons to help researchers get their work done.
@@ -33,6 +44,7 @@ The KnowPulse KnowledgeBase focuses on short question-based lessons to help rese
 - **Purpose:** {{ page.short-purpose }}
 - **Who:** {{ page.who }}
 - **Maintainer(s):** {{ page.maintainers }}
+- **Original Author(s):** {{ page.authors }}
 
 {{ page.why }}
 
@@ -42,6 +54,14 @@ The KnowPulse KnowledgeBase focuses on short question-based lessons to help rese
 	<li style="font-weight:bold">{{ item|markdownify }}</li>
 	{% endfor %}
 </ul>
+
+> ## Attribution
+>
+> {{ page.attribution }}
+>
+> <div class="citation">{{ page.citation }}</div>
+>
+{: .prereq}
 
 > ## Getting Started
 >
