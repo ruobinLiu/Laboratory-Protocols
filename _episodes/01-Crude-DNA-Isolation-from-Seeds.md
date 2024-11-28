@@ -52,7 +52,7 @@ Photo of a bean with the seed coat scraped away on the front side.There is a sma
 8.	Carefully remove seal and add 15 µl of 0.5M Tris-HCl (pH 8.0) to each well.
 9.	Seal the samples.  Shake/vortex on plate-mixer if available.  Place plate on 95°C heating block for ~2 minutes.  Remove and place on ice.
 10.	Samples can be used immediately, stored in the fridge for a few days, or frozen indefinitely.  
-11.	For regular PCR, use 1.0-2.0 µl of sample in a 15-25 µl PCR reaction.  For KASP-based PCR, dilute the DNA by adding 100 µl of sterile water.  Then use 2.0 µl of diluted DNA in a 8-10 µl KASP reaction.
+11.	For regular PCR, use 1.0-2.0 µl of sample in a 15-25 µl PCR reaction.  For KASP-based PCR, dilute the DNA by adding 200 µl of sterile water.  Then use 2.0 µl of diluted DNA in a 8-10 µl KASP reaction.
 
 ## Important Notes:
 -	For best results, try to be as consistent as possible with the amount of tissue collected.   As with any PCR, KASP-based PCR works best when starting samples have same amounts of DNA.  By being consistent, you should not have to quantify the DNA.
